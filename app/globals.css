@@ -19,3 +19,12 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+#nprogress .bar {
+  background: #29d;
+  height: 3px;
+}
+
+.nav :hover {
+  color: white;
+}
